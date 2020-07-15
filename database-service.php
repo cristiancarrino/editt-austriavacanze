@@ -1,6 +1,7 @@
 <?php
 
 require_once 'parameters.php';
+require_once 'parameters2.php';
 
 class DatabaseService
 {

@@ -3,6 +3,7 @@
 require_once 'json-to-xml.php';
 require_once 'xml-to-json.php';
 require_once 'parameters.php';
+require_once 'parameters2.php';
 
 class CallService
 {
